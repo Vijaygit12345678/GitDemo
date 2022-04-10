@@ -1,5 +1,7 @@
 def test():
 	if name == "vijay":
   		print("i am software developer")
-	else:
+	elif:
 		print("i am software tester")
+	elif:
+		print(" i am support Analyst")

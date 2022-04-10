@@ -1,2 +1,5 @@
 def test():
-  print("i am software developer")
+	if name == "vijay":
+  		print("i am software developer")
+	else:
+		print("i am software tester")

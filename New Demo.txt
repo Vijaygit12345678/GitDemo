@@ -3,4 +3,4 @@ class pytest():
 		a=4
 		b=8
 		c= a+b 
-		print("adding the two values"+c)
+		print(c)

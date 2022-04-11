@@ -1,4 +1,5 @@
 class pytest():
+	@pytest.fixture()
 	def Demo():
 		a=4
 		b=8
